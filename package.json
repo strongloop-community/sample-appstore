@@ -8,6 +8,7 @@
   "dependencies": {
     "express": "latest",
     "ejs": "latest"
-  }
+  },
+  "license": "MIT"
 }
 
